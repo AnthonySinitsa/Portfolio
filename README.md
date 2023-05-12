@@ -12,12 +12,34 @@ Finish time:2:22
 
 Actual time needed to complete: 12 mins
 
-Number and name of feature:
+Number and name of feature: aboutme
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 10 mins
 
-Start time:
+Start time: 2:22
 
-Finish time:
+Finish time: 2:45
 
-Actual time needed to complete:
+Actual time needed to complete: 25 mins
+
+Number and name of feature: projects
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 2:45
+
+Finish time: 3:00
+
+Actual time needed to complete: 15 mins
+
+Actual time needed to complete: 25 mins
+
+Number and name of feature: projects
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 2:45
+
+Finish time: 3:00
+
+Actual time needed to complete: 15 mins
