@@ -12,8 +12,8 @@
     "projects": [
       {
         "title": "301 Final",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "startDate": "2023",
+        "description": "not done yet.",
         "images": [
           "images/portfolio/OddDuck/OddDuck1.png",
           "images/portfolio/OddDuck/OddDuck2.png"
@@ -21,12 +21,12 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
             "class": "devicon-csharp-plain",
@@ -36,45 +36,49 @@
       },
       {
         "title": "PB&J",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "startDate": "2023",
+        "description": "A final project that a user can create their own sandwich and will render on the menu in which they can vote for as many times as they want.",
         "images": [
           "images/portfolio/PBJ/PBJ1.png",
           "images/portfolio/PBJ/PBJ2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/PeanutButter-and-JavaScript/PB-JS",
         "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           }
         ]
       },
       {
         "title": "OddDuck",
-        "startDate": "2015",
+        "startDate": "2023",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/OddDuck/OddDuck1.png",
           "images/portfolio/OddDuck/OddDuck2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/AnthonySinitsa/odd-duck",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           }
         ]
       }
