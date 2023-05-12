@@ -61,7 +61,7 @@
       {
         "title": "OddDuck",
         "startDate": "2023",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "description": "Displays three images that the user can vote for and once after they vote 25 times a graph with dispaly showing the results.",
         "images": [
           "images/portfolio/OddDuck/OddDuck1.png",
           "images/portfolio/OddDuck/OddDuck2.png"
@@ -85,37 +85,25 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "OnTrac",
+        "title": "Courier",
+        "years": "July2023 - October2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "Vehicle"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Delivered Packages"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "PlaceHolder",
+        "title": "PlaceHolder",
+        "years": "TBA",
         "mainTech": [
-          "Angular 7/8"
+          "PlaceHolder"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "PlaceHolder"
         ]
       }
     ]

@@ -34,12 +34,12 @@ Actual time needed to complete: 15 mins
 
 Actual time needed to complete: 25 mins
 
-Number and name of feature: projects
+Number and name of feature: skill
 
 Estimate of time needed to complete: 30 mins
 
-Start time: 2:45
+Start time: 3:20
 
-Finish time: 3:00
+Finish time: 3:55
 
-Actual time needed to complete: 15 mins
+Actual time needed to complete: 35 mins
