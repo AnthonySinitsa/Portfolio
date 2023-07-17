@@ -11,26 +11,31 @@
     },
     "projects": [
       {
-        "title": "301 Final",
+        "title": "JarJar Beats",
         "startDate": "2023",
-        "description": "not done yet.",
+        "description": "A music playlist creator that allows the user to create a playlist and add songs to it. The user can also search for songs and add them to the playlist.",
         "images": [
-          "images/portfolio/OddDuck/OddDuck1.png",
-          "images/portfolio/OddDuck/OddDuck2.png"
+          "images/portfolio/JarJarBeats/jar2.jpg", 
+          "images/portfolio/JarJarBeats/jar1.jpg",
+          "images/portfolio/JarJarBeats/jar3.jpg"
         ],
         "url": "",
         "technologies": [
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           }
         ]
       },
@@ -47,6 +52,10 @@
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-css3-plain",
