@@ -85,25 +85,36 @@
     ],
     "experience": [
       {
-        "company": "OnTrac",
-        "title": "Courier",
-        "years": "July2023 - October2023",
+        "company": "Advanced Software Developement in Python",
+        "title": "Code Fellows",
+        "years": "March - August2023",
         "mainTech": [
-          "Vehicle"
+          "Python", "JavaScript"
         ],
         "technologies": [
-          "Delivered Packages"
+          "PostgreSQL", "MySQL", "Git", "GitHub", "Vercel"
         ]
       },
       {
-        "company": "PlaceHolder",
-        "title": "PlaceHolder",
-        "years": "TBA",
+        "company": "Pursuing a Bachelor's Degree in Computer Science",
+        "title": "Eastern Washington University",
+        "years": "",
         "mainTech": [
-          "PlaceHolder"
+          "Java", "C"
         ],
         "technologies": [
-          "PlaceHolder"
+          ""
+        ]
+      },
+      {
+        "company": "Courier",
+        "title": "OnTrac",
+        "years": "July - October2021",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          "Delivered Packages"
         ]
       }
     ]

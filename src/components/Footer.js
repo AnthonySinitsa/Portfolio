@@ -30,7 +30,7 @@ class Footer extends Component {
                 style={{ display: "inline" }}
               >
                 <span
-                  className="iconify language-icon mr-5"
+                  // className="iconify language-icon mr-5"
                   data-icon="twemoji-flag-for-flag-united-states"
                   data-inline="false"
                   id={window.$primaryLanguageIconId}
@@ -46,7 +46,7 @@ class Footer extends Component {
                 style={{ display: "inline" }}
               >
                 <span
-                  className="iconify language-icon"
+                  // className="iconify language-icon"
                   data-icon="twemoji-flag-for-flag-ukraine"
                   data-inline="false"
                   id={window.$secondaryLanguageIconId}
@@ -57,7 +57,7 @@ class Footer extends Component {
               <div className="copyright py-4 text-center">
                 <div className="container">
                   <small>
-                    Copyright &copy;{" "}
+                    &copy;{""}
                     {this.props.sharedBasicInfo
                       ? this.props.sharedBasicInfo.name
                       : "???"}

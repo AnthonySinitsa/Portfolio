@@ -1,8 +1,6 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import htmlIcon from "@iconify/icons-logos/html-5";
-import reactIcon from "@iconify/icons-logos/react";
-import cssIcon from "@iconify/icons-logos/css-3";
+import javaIcon from "@iconify/icons-logos/java";
 import javascriptIcon from "@iconify/icons-logos/javascript";
 import pythonIcon from "@iconify/icons-logos/python";
 
@@ -33,23 +31,15 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
-                    icon={javascriptIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
                     icon={pythonIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={htmlIcon}
+                    icon={javascriptIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={cssIcon}
+                    icon={javaIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
