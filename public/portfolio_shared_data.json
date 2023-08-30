@@ -34,41 +34,6 @@
           "level": "65"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
-        {
-          "name": "React",
-          "class": "devicon-react-original",
-          "level": "70"
-        },
-        {
-          "name": "Node.js",
-          "class": "devicon-nodejs-plain",
-          "level": "60"
-        },
-        {
-          "name": "MongoDB",
-          "class": "devicon-mongodb-plain",
-          "level": "60"
-        },
-        {
-          "name": "MySQL",
-          "class": "devicon-mysql-plain",
-          "level": "60"
-        },
-        {
-          "name": "Git",
-          "class": "devicon-git-plain",
-          "level": "80"
-        },
-        {
-          "name": "Linux",
-          "class": "devicon-linux-plain",
-          "level": "60"
-        },
-        {
           "name": "C",
           "class": "devicon-c-plain",
           "level": "60"
@@ -82,6 +47,51 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "85"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "85"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "85"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-plain",
+          "level": "85"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "85"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "85"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+        {
+          "name": "PostgreSQL",
+          "class": "devicon-postgresql-plain",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "85"
         }
       ]
     }

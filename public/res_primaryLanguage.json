@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "👋 I'm Anthony Sinitsa. Hi, I'm a Creative Technologist with a passion for exploring the intersection of art and technology. I specialize in creating immersive experiences that captivate audiences and leave a lasting impression. Thank you!",
+      "description": "👋 I am Anthony Sinitsa a software engineer specializing in Python. Demonstrating a strong coding aptitude, practical skills and a passion for problem-solving. Prioritizes effective communication, strong teamwork, and meeting deadlines. Committed to continuous growth and enthusiastic about contributing my skills and expertise to your team. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -101,7 +101,7 @@
           "Python", "JavaScript"
         ],
         "technologies": [
-          "PostgreSQL", "MySQL", "Git", "GitHub", "Vercel"
+          "Auth0", "Django", "Docker", "Git", "GitHub", "Linux Based Systems", "MongoDB", "Next.js", "Node.js", "PostgreSQL", "React"
         ]
       },
       {
@@ -109,21 +109,21 @@
         "title": "Eastern Washington University",
         "years": "",
         "mainTech": [
-          "Java", "C"
+          "Java", "Python", "C"
         ],
         "technologies": [
           ""
         ]
       },
       {
-        "company": "Courier",
+        "company": "Scanned, loaded, and executed the punctual delivery of around 50 packages daily, leveraging route optimization software to meet all delivery deadlines consistently.",
         "title": "OnTrac",
         "years": "July - October2021",
         "mainTech": [
-          ""
+          "Courier"
         ],
         "technologies": [
-          "Delivered Packages"
+          ""
         ]
       }
     ]
