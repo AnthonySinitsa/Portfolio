@@ -40,6 +40,25 @@
         ]
       },
       {
+        "title": "Cover_Me",
+        "startDate": "2023",
+        "description": "A CLI project that prompts the user what job they are looking for and for their resume, once inputted the program will generate a cover letter using AI for the user.",
+        "images": [
+          "images/portfolio/CoverMe/coverme.png"
+        ],
+        "url": "https://github.com/Cover-Me401/Cover_Me",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          }
+        ]
+      },
+      {
         "title": "PB&J",
         "startDate": "2023",
         "description": "A final project that a user can create their own sandwich and will render on the menu in which they can vote for as many times as they want.",
@@ -66,30 +85,6 @@
             "name": "HTML 5"
           }
         ]
-      },
-      {
-        "title": "OddDuck",
-        "startDate": "2023",
-        "description": "Displays three images that the user can vote for and once after they vote 25 times a graph with dispaly showing the results.",
-        "images": [
-          "images/portfolio/OddDuck/OddDuck1.png",
-          "images/portfolio/OddDuck/OddDuck2.png"
-        ],
-        "url": "https://github.com/AnthonySinitsa/odd-duck",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          }
-        ]
       }
     ],
     "experience": [
@@ -101,7 +96,7 @@
           "Python", "JavaScript"
         ],
         "technologies": [
-          "Auth0", "Django", "Docker", "Git", "GitHub", "Linux Based Systems", "MongoDB", "Next.js", "Node.js", "PostgreSQL", "React"
+          "Auth0", "Django", "Docker", "Git", "GitHub", "Linux", "MongoDB", "Next.js", "Node.js", "PostgreSQL", "React"
         ]
       },
       {
