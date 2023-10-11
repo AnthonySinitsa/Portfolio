@@ -40,21 +40,32 @@
         ]
       },
       {
-        "title": "Cover_Me",
+        "title": "Cover-Me-Letter",
         "startDate": "2023",
-        "description": "A CLI project that prompts the user what job they are looking for and for their resume, once inputted the program will generate a cover letter using AI for the user.",
+        "description": "Final Project that has a web scrapper, it scrapes for job postings returns them back to the user, and then the use can choose whether they want an AI generated cover letter for a job posting. It will use the users inputted resume information and the description of the job posting to generate a specialized cover letter!",
         "images": [
-          "images/portfolio/CoverMe/coverme.png"
+          "images/portfolio/CoverMe/1.png",
+          "images/portfolio/CoverMe/2.png",
+          "images/portfolio/CoverMe/3.png",
+          "images/portfolio/CoverMe/4.png"
         ],
-        "url": "https://github.com/Cover-Me401/Cover_Me",
+        "url": "https://cover-me-letter-6882f32ca33b.herokuapp.com",
         "technologies": [
           {
             "class": "devicon-python-plain",
             "name": "Python"
           },
           {
-            "class": "devicon-docker-plain",
-            "name": "Docker"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
           }
         ]
       },
