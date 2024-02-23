@@ -3,6 +3,7 @@ import { Icon } from "@iconify/react";
 import javaIcon from "@iconify/icons-logos/java";
 import javascriptIcon from "@iconify/icons-logos/javascript";
 import pythonIcon from "@iconify/icons-logos/python";
+import csharpIcon from "@iconify/icons-logos/c-sharp";
 
 class About extends Component {
   render() {
@@ -40,6 +41,10 @@ class About extends Component {
                   />
                   <Icon
                     icon={javaIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                  icon={csharpIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>

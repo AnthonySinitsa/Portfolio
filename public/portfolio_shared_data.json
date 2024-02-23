@@ -39,6 +39,11 @@
           "level": "60"
         },
         {
+          "name": "C#",
+          "class": "devicon-csharp-plain",
+          "level": "60"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
