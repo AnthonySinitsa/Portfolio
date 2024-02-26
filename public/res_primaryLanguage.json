@@ -100,7 +100,7 @@
       {
         "title": "Voxilized Clouds",
         "startDate": "2024",
-        "description": "This is a unity project that utilizes Perlin noise and dynamic scaling to generate a dynamic platform of cubes in Unity. The script is flexible, allowing users to tweak parameter in the Inspector to achieve different visula effects and styles for their game or simulation.",
+        "description": "This is a unity project that utilizes Perlin noise and dynamic scaling to generate a dynamic platform of cubes in Unity. The script is flexible, allowing users to tweak parameter in the Inspector to achieve different visual effects and styles for their game or simulation.",
         "images": [
           "images/portfolio/Clouds/clouds.jpg",
           "images/portfolio/Clouds/clouds2.jpg",
