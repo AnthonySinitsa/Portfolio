@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "👋 I am Anthony Sinitsa a software engineer specializing in Python. Demonstrating a strong coding aptitude, practical skills and a passion for problem-solving. Prioritizes effective communication, strong teamwork, and meeting deadlines. Committed to continuous growth and enthusiastic about contributing my skills and expertise to your team. ",
+      "description": "👋 I am Anthony Sinitsa a software developer specializing in Python. Demonstrating a strong coding aptitude, practical skills and a passion for problem-solving. Prioritizes effective communication, strong teamwork, and meeting deadlines. Committed to continuous growth and enthusiastic about contributing my skills and expertise to your team. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -133,6 +133,34 @@
             "class": "devicon-react-plain",
             "name": "React"
           },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "City Explorer",
+        "startDate": "2023",
+        "description": "This is a JavaScript website that utilizes 3 API's; location API, weather API, and movie API to display information about the city the user searches. (Note: Weather API is expired and does not display current weather.)",
+        "images": [
+          "images/portfolio/CityExplorer/city1.jpg",
+          "images/portfolio/CityExplorer/city2.jpg"
+        ],
+        "url": "https://github.com/AnthonySinitsa/city-explorer",
+        "technologies": [
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
