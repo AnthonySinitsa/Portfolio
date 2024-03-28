@@ -154,7 +154,7 @@
       {
         "title": "City Explorer",
         "startDate": "2023",
-        "description": "This is a JavaScript website that utilizes 3 API's; location API, weather API, and movie API to display information about the city the user searches. (Note: Weather API is expired and does not display current weather.)",
+        "description": "This is a JavaScript website that utilizes 3 API's; location API, weather API, and movie API to display information about the city the user searches. (Note: Weather API is expired and does not display current weather.) (Note: Movie API does take some time to retrieve data, so give it a few seconds.)",
         "images": [
           "images/portfolio/CityExplorer/city1.jpg",
           "images/portfolio/CityExplorer/city2.jpg"
