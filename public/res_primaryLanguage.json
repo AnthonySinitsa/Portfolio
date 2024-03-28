@@ -178,6 +178,22 @@
             "name": "Bootstrap"
           }
         ]
+      },
+      {
+        "title": "Capital Finder",
+        "startDate": "2023",
+        "description": "This serverless function provides information about countries and their capitals based on user queries.",
+        "images": [
+          "images/portfolio/CapitalFinder/server3.jpg",
+          "images/portfolio/CapitalFinder/server4.jpg"
+        ],
+        "url": "https://github.com/AnthonySinitsa/capital-finder",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
       }
     ],
     "experience": [
