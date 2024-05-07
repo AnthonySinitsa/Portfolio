@@ -5,6 +5,7 @@
       "section_name": {
         "about": "About me",
         "projects": "Projects",
+        "graphics": "Graphics Projects",
         "skills": "Skills",
         "experience": "Experience"
       }
@@ -192,6 +193,46 @@
           {
             "class": "devicon-python-plain",
             "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Shell Texturing",
+        "startDate": "2024",
+        "description": "Shell-Texturing is a technique used to efficiently render complex objects with complex surface details: fur, hair, grass or foliage.",
+        "images": [
+          "images/portfolio/ShellTexturing/image2.png"
+        ],
+        "url": "https://github.com/AnthonySinitsa/shell-texturing",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          }
+        ]
+      }
+    ],
+    "graphics": [
+      {
+        "title": "Shell Texturing",
+        "startDate": "2024",
+        "description": "asdf",
+        "images": [
+          "images/portfolio/ShellTexturing/image2.png"
+        ],
+        "url": "https://github.com/AnthonySinitsa/shell-texturing",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
           }
         ]
       }
