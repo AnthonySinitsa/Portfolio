@@ -4,6 +4,8 @@ import javaIcon from "@iconify/icons-logos/java";
 import javascriptIcon from "@iconify/icons-logos/javascript";
 import pythonIcon from "@iconify/icons-logos/python";
 import csharpIcon from "@iconify/icons-logos/c-sharp";
+import htmlIcon from "@iconify/icons-logos/html-5";
+import cssIcon from "@iconify/icons-logos/css-3";
 
 class About extends Component {
   render() {
@@ -45,6 +47,14 @@ class About extends Component {
                   />
                   <Icon
                   icon={csharpIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                  icon={htmlIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                  icon={cssIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
