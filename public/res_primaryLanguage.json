@@ -201,12 +201,14 @@
         "startDate": "2024",
         "description": "Shell-Texturing is a technique used to efficiently render complex objects with complex surface details: fur, hair, grass or foliage.",
         "images": [
+          "images/portfolio/ShellTexturing/wind.gif",
           "images/portfolio/ShellTexturing/image2.png",
           "images/portfolio/ShellTexturing/ball0.png",
           "images/portfolio/ShellTexturing/hairStrands.png",
           "images/portfolio/ShellTexturing/lambertianDiffuse.png",
           "images/portfolio/ShellTexturing/halfLambert.png",
-          "images/portfolio/ShellTexturing/dandelion.png"
+          "images/portfolio/ShellTexturing/dandelion.png",
+          "images/portfolio/ShellTexturing/gravity.png"
         ],
         "url": "https://github.com/AnthonySinitsa/shell-texturing",
         "technologies": [
