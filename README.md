@@ -8,4 +8,4 @@
 
 - start: npm start
 
-- git remote set-url origin https://AnthonySinitsa:PASTETOKENHERE@github.com/AnthonySinitsa/Portfolio.git
+`git remote set-url origin https://AnthonySinitsa:PASTETOKENHERE@github.com/AnthonySinitsa/Portfolio.git`
