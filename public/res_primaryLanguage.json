@@ -221,6 +221,31 @@
             "name": "Unity"
           }
         ]
+      },
+      {
+        "title": "Grass Rendering",
+        "startDate": "2024",
+        "description": "This is an exploration of various techniques to render grass, currently only has the billboarding technique.",
+        "images": [
+          "images/portfolio/Grass/fog.gif",
+          "images/portfolio/Grass/grass1.png",
+          "images/portfolio/Grass/grass2.png",
+          "images/portfolio/Grass/grass3.png",
+          "images/portfolio/Grass/grass4.png",
+          "images/portfolio/Grass/wind.gif",
+          "images/portfolio/Grass/wind2.gif"
+        ],
+        "url": "https://github.com/AnthonySinitsa/shell-texturing",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          }
+        ]
       }
     ],
     "experience": [
