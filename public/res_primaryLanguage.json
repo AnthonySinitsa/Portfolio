@@ -12,31 +12,102 @@
     },
     "projects": [
       {
-        "title": "JarJar Beats",
-        "startDate": "2023",
-        "description": "A music playlist creator that allows the user to create a playlist and add songs to it. The user can also search for songs and add them to the playlist.",
+        "title": "3d Modeled Grass",
+        "startDate": "2024",
+        "description": "This is an exploration of various techniques to render grass, uses 3d model grass blade.",
         "images": [
-          "images/portfolio/JarJarBeats/jar2.jpg", 
-          "images/portfolio/JarJarBeats/jar1.jpg",
-          "images/portfolio/JarJarBeats/jar3.jpg"
+          "images/portfolio/Grass/model.gif",
+          "images/portfolio/Grass/model1.png",
+          "images/portfolio/Grass/model2.png",
+          "images/portfolio/Grass/modelCurve.png"
         ],
-        "url": "",
+        "url": "https://github.com/AnthonySinitsa/Grass",
         "technologies": [
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-csharp-plain",
+            "name": "C#"
           },
           {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
+            "class": "devicon-unity-plain",
+            "name": "Unity"
           },
           {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
+            "class": "devicon-maya-plain",
+            "name": "Maya"
+          }
+        ]
+      },
+      {
+        "title": "BillBoard Grass",
+        "startDate": "2024",
+        "description": "This is an exploration of various techniques to render grass, billboarding technique.",
+        "images": [
+          "images/portfolio/Grass/fog.gif",
+          "images/portfolio/Grass/grass1.png",
+          "images/portfolio/Grass/grass2.png",
+          "images/portfolio/Grass/grass3.png",
+          "images/portfolio/Grass/grass4.png",
+          "images/portfolio/Grass/wind.gif",
+          "images/portfolio/Grass/wind2.gif"
+        ],
+        "url": "https://github.com/AnthonySinitsa/Grass",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
           },
           {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          }
+        ]
+      },
+      {
+        "title": "Shell Texturing",
+        "startDate": "2024",
+        "description": "Shell-Texturing is a technique used to efficiently render complex objects with complex surface details: fur, hair, grass or foliage.",
+        "images": [
+          "images/portfolio/ShellTexturing/ball1.png",
+          "images/portfolio/ShellTexturing/wind.gif",
+          "images/portfolio/ShellTexturing/image2.png",
+          "images/portfolio/ShellTexturing/ball0.png",
+          "images/portfolio/ShellTexturing/hairStrands.png",
+          "images/portfolio/ShellTexturing/lambertianDiffuse.png",
+          "images/portfolio/ShellTexturing/halfLambert.png",
+          "images/portfolio/ShellTexturing/dandelion.png",
+          "images/portfolio/ShellTexturing/gravity.png"
+        ],
+        "url": "https://github.com/AnthonySinitsa/shell-texturing",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          }
+        ]
+      },
+      {
+        "title": "Voxilized Clouds",
+        "startDate": "2024",
+        "description": "This is a unity project that utilizes Perlin noise and dynamic scaling to generate a dynamic platform of cubes in Unity. The script is flexible, allowing users to tweak parameter in the Inspector to achieve different visual effects and styles for their game or simulation.",
+        "images": [
+          "images/portfolio/Clouds/clouds.gif",
+          "images/portfolio/Clouds/clouds.jpg",
+          "images/portfolio/Clouds/clouds2.jpg",
+          "images/portfolio/Clouds/clouds3.jpg"
+        ],
+        "url": "https://github.com/AnthonySinitsa/Clouds",
+        "technologies": [
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
           }
         ]
       },
@@ -71,6 +142,35 @@
         ]
       },
       {
+        "title": "JarJar Beats",
+        "startDate": "2023",
+        "description": "A music playlist creator that allows the user to create a playlist and add songs to it. The user can also search for songs and add them to the playlist.",
+        "images": [
+          "images/portfolio/JarJarBeats/jar2.jpg", 
+          "images/portfolio/JarJarBeats/jar1.jpg",
+          "images/portfolio/JarJarBeats/jar3.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          }
+        ]
+      },
+      {
         "title": "PB&J",
         "startDate": "2023",
         "description": "A final project that a user can create their own sandwich and will render on the menu in which they can vote for as many times as they want.",
@@ -99,23 +199,30 @@
         ]
       },
       {
-        "title": "Voxilized Clouds",
-        "startDate": "2024",
-        "description": "This is a unity project that utilizes Perlin noise and dynamic scaling to generate a dynamic platform of cubes in Unity. The script is flexible, allowing users to tweak parameter in the Inspector to achieve different visual effects and styles for their game or simulation.",
+        "title": "City Explorer",
+        "startDate": "2023",
+        "description": "This is a JavaScript website that utilizes 3 API's; location API, weather API, and movie API to display information about the city the user searches. (Note: Weather API is expired and does not display current weather.) (Note: Movie API does take some time to retrieve data, so give it a few seconds.)",
         "images": [
-          "images/portfolio/Clouds/clouds.jpg",
-          "images/portfolio/Clouds/clouds2.jpg",
-          "images/portfolio/Clouds/clouds3.jpg"
+          "images/portfolio/CityExplorer/city1.jpg",
+          "images/portfolio/CityExplorer/city2.jpg"
         ],
-        "url": "https://github.com/AnthonySinitsa/Clouds",
+        "url": "https://github.com/AnthonySinitsa/city-explorer",
         "technologies": [
           {
-            "class": "devicon-unity-plain",
-            "name": "Unity"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           }
         ]
       },
@@ -149,101 +256,6 @@
           {
             "class": "devicon-bootstrap-plain",
             "name": "Bootstrap"
-          }
-        ]
-      },
-      {
-        "title": "City Explorer",
-        "startDate": "2023",
-        "description": "This is a JavaScript website that utilizes 3 API's; location API, weather API, and movie API to display information about the city the user searches. (Note: Weather API is expired and does not display current weather.) (Note: Movie API does take some time to retrieve data, so give it a few seconds.)",
-        "images": [
-          "images/portfolio/CityExplorer/city1.jpg",
-          "images/portfolio/CityExplorer/city2.jpg"
-        ],
-        "url": "https://github.com/AnthonySinitsa/city-explorer",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS3"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
-          }
-        ]
-      },
-      {
-        "title": "Capital Finder",
-        "startDate": "2023",
-        "description": "This serverless function provides information about countries and their capitals based on user queries.",
-        "images": [
-          "images/portfolio/CapitalFinder/server3.jpg",
-          "images/portfolio/CapitalFinder/server4.jpg"
-        ],
-        "url": "https://github.com/AnthonySinitsa/capital-finder",
-        "technologies": [
-          {
-            "class": "devicon-python-plain",
-            "name": "Python"
-          }
-        ]
-      },
-      {
-        "title": "Shell Texturing",
-        "startDate": "2024",
-        "description": "Shell-Texturing is a technique used to efficiently render complex objects with complex surface details: fur, hair, grass or foliage.",
-        "images": [
-          "images/portfolio/ShellTexturing/wind.gif",
-          "images/portfolio/ShellTexturing/image2.png",
-          "images/portfolio/ShellTexturing/ball0.png",
-          "images/portfolio/ShellTexturing/hairStrands.png",
-          "images/portfolio/ShellTexturing/lambertianDiffuse.png",
-          "images/portfolio/ShellTexturing/halfLambert.png",
-          "images/portfolio/ShellTexturing/dandelion.png",
-          "images/portfolio/ShellTexturing/gravity.png"
-        ],
-        "url": "https://github.com/AnthonySinitsa/shell-texturing",
-        "technologies": [
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          },
-          {
-            "class": "devicon-unity-plain",
-            "name": "Unity"
-          }
-        ]
-      },
-      {
-        "title": "Grass Rendering",
-        "startDate": "2024",
-        "description": "This is an exploration of various techniques to render grass, currently only has the billboarding technique.",
-        "images": [
-          "images/portfolio/Grass/fog.gif",
-          "images/portfolio/Grass/grass1.png",
-          "images/portfolio/Grass/grass2.png",
-          "images/portfolio/Grass/grass3.png",
-          "images/portfolio/Grass/grass4.png",
-          "images/portfolio/Grass/wind.gif",
-          "images/portfolio/Grass/wind2.gif"
-        ],
-        "url": "https://github.com/AnthonySinitsa/Grass",
-        "technologies": [
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          },
-          {
-            "class": "devicon-unity-plain",
-            "name": "Unity"
           }
         ]
       }
