@@ -38,19 +38,14 @@
         ]
       },
       {
-        "title": "BillBoard Grass",
+        "title": "Water",
         "startDate": "2024",
-        "description": "This is an exploration of various techniques to render grass, billboarding technique.",
+        "description": "A study of different ways to render water, sum of sines water simulation with physical based water shader",
         "images": [
-          "images/portfolio/Grass/fog.gif",
-          "images/portfolio/Grass/grass1.png",
-          "images/portfolio/Grass/grass2.png",
-          "images/portfolio/Grass/grass3.png",
-          "images/portfolio/Grass/grass4.png",
-          "images/portfolio/Grass/wind.gif",
-          "images/portfolio/Grass/wind2.gif"
+          "images/portfolio/Water/Gerstner.gif",
+          "images/portfolio/Water/Eulersos.gif"
         ],
-        "url": "https://github.com/AnthonySinitsa/Grass",
+        "url": "https://github.com/AnthonySinitsa/Water",
         "technologies": [
           {
             "class": "devicon-csharp-plain",
@@ -78,6 +73,31 @@
           "images/portfolio/ShellTexturing/gravity.png"
         ],
         "url": "https://github.com/AnthonySinitsa/shell-texturing",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-unity-plain",
+            "name": "Unity"
+          }
+        ]
+      },
+      {
+        "title": "BillBoard Grass",
+        "startDate": "2024",
+        "description": "This is an exploration of various techniques to render grass, billboarding technique.",
+        "images": [
+          "images/portfolio/Grass/fog.gif",
+          "images/portfolio/Grass/grass1.png",
+          "images/portfolio/Grass/grass2.png",
+          "images/portfolio/Grass/grass3.png",
+          "images/portfolio/Grass/grass4.png",
+          "images/portfolio/Grass/wind.gif",
+          "images/portfolio/Grass/wind2.gif"
+        ],
+        "url": "https://github.com/AnthonySinitsa/Grass",
         "technologies": [
           {
             "class": "devicon-csharp-plain",
