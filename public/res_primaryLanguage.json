@@ -56,6 +56,10 @@
             "name": "C++"
           },
           {
+            "class": "devicon-directx11-plain",
+            "name": "DirectX 11"
+          },
+          {
             "class": "devicon-hlsl-plain",
             "name": "HLSL"
           }
