@@ -38,6 +38,30 @@
         ]
       },
       {
+        "title": "Terrain",
+        "startDate": "2024",
+        "description": "This project is a comprehensive terrain rendering application written in C++ and HLSL, utilizing DirectX 11 for rendering. It showcases many advanced graphics techniques and features, making it a robust demo of terrain visualization and manipulation.",
+        "images": [
+          "images/portfolio/Terrain/RAWheight2.png",
+          "images/portfolio/Terrain/playerCam.gif",
+          "images/portfolio/Terrain/height.png",
+          "images/portfolio/Terrain/shading.png",
+          "images/portfolio/Terrain/skydome.png",
+          "images/portfolio/Terrain/terrainCells.png"
+        ],
+        "url": "https://github.com/AnthonySinitsa/Terrain",
+        "technologies": [
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-hlsl-plain",
+            "name": "HLSL"
+          }
+        ]
+      },
+      {
         "title": "Water",
         "startDate": "2024",
         "description": "A study of different ways to render water, sum of sines water simulation with physical based water shader",
