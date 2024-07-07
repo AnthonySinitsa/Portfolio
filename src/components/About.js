@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import javaIcon from "@iconify/icons-logos/java";
+import cplusplusIcon from "@iconify/icons-logos/c-plusplus";
 import javascriptIcon from "@iconify/icons-logos/javascript";
 import pythonIcon from "@iconify/icons-logos/python";
 import csharpIcon from "@iconify/icons-logos/c-sharp";
@@ -38,15 +39,15 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={javascriptIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={javaIcon}
+                    icon={cplusplusIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
                   icon={csharpIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={javascriptIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon

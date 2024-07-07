@@ -24,9 +24,9 @@
           "level": "90"
         },
         {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
-          "level": "70"
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "65"
         },
         {
           "name": "C#",
@@ -34,9 +34,9 @@
           "level": "60"
         },
         {
-          "name": "Java",
-          "class": "devicon-java-plain",
-          "level": "65"
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
         },
         {
           "name": "HTML 5",
@@ -46,11 +46,6 @@
         {
           "name": "CSS 3",
           "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
-          "name": "AWS",
-          "class": "devicon-amazonwebservices-plain",
           "level": "95"
         },
         {
