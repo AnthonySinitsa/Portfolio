@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import javaIcon from "@iconify/icons-logos/java";
 import cplusplusIcon from "@iconify/icons-logos/c-plusplus";
 import javascriptIcon from "@iconify/icons-logos/javascript";
 import pythonIcon from "@iconify/icons-logos/python";
