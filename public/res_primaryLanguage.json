@@ -12,6 +12,29 @@
     },
     "projects": [
       {
+        "title": "Vulkan Engine",
+        "startDate": "2024",
+        "description": "This project is a Vulkan-based engine that demonstrates a range of graphics programming concepts and techniques using the Vulkan API. It features window management with GLFW, advanced rendering techniques, and real-time 3D graphics capabilities.",
+        "images": [
+          "images/portfolio/vEngine/vEngine2.gif"
+        ],
+        "url": "https://github.com/AnthonySinitsa/VulkanEngine",
+        "technologies": [
+          {
+            "class": "devicon-cplusplus-plain",
+            "name": "C++"
+          },
+          {
+            "class": "devicon-vulakan-plain",
+            "name": "VulkanAPI"
+          },
+          {
+            "class": "devicon-glsl-plain",
+            "name": "GLSL"
+          }
+        ]
+      },
+      {
         "title": "3d Modeled Grass",
         "startDate": "2024",
         "description": "This is an exploration of various techniques to render grass, uses 3d model grass blade.",
@@ -26,6 +49,10 @@
           {
             "class": "devicon-csharp-plain",
             "name": "C#"
+          },
+          {
+            "class": "devicon-hlsl-plain",
+            "name": "HLSL"
           },
           {
             "class": "devicon-unity-plain",
@@ -80,6 +107,10 @@
             "name": "C#"
           },
           {
+            "class": "devicon-hlsl-plain",
+            "name": "HLSL"
+          },
+          {
             "class": "devicon-unity-plain",
             "name": "Unity"
           }
@@ -107,6 +138,10 @@
             "name": "C#"
           },
           {
+            "class": "devicon-hlsl-plain",
+            "name": "HLSL"
+          },
+          {
             "class": "devicon-unity-plain",
             "name": "Unity"
           }
@@ -130,6 +165,10 @@
           {
             "class": "devicon-csharp-plain",
             "name": "C#"
+          },
+          {
+            "class": "devicon-hlsl-plain",
+            "name": "HLSL"
           },
           {
             "class": "devicon-unity-plain",
