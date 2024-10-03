@@ -18,7 +18,7 @@
         "images": [
           "images/portfolio/vEngine/vEngine2.gif"
         ],
-        "url": "https://github.com/AnthonySinitsa/VulkanEngine",
+        "url": "https://github.com/AnthonySinitsa/VoxelEngine",
         "technologies": [
           {
             "class": "devicon-cplusplus-plain",
