@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "I am Anthony Sinitsa a software developer specializing in Python. Demonstrating a strong coding aptitude, practical skills and a passion for problem-solving. Prioritizes effective communication, strong teamwork, and meeting deadlines. Committed to continuous growth and enthusiastic about contributing my skills and expertise to your team. ",
+      "description": "I am Anthony Sinitsa a software developer specializing in C++. Demonstrating a strong coding aptitude, practical skills and a passion for problem-solving. Prioritizes effective communication, strong teamwork, and meeting deadlines. Committed to continuous growth and enthusiastic about contributing my skills and expertise to your team. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -12,7 +12,7 @@
     },
     "projects": [
       {
-        "title": "Vulkan Engine",
+        "title": "Vulkan Rendering Engine",
         "startDate": "2024",
         "description": "This project is a Vulkan-based engine that demonstrates a range of graphics programming concepts and techniques using the Vulkan API. It features window management with GLFW, advanced rendering techniques, and real-time 3D graphics capabilities.",
         "images": [
@@ -65,7 +65,7 @@
         ]
       },
       {
-        "title": "Terrain",
+        "title": "DX11 Rendering Engine",
         "startDate": "2024",
         "description": "This project is a comprehensive terrain rendering application written in C++ and HLSL, utilizing DirectX 11 for rendering. It showcases many advanced graphics techniques and features, making it a robust demo of terrain visualization and manipulation.",
         "images": [
@@ -349,20 +349,9 @@
     ],
     "experience": [
       {
-        "company": "Advanced Software Developement in Python",
-        "title": "Code Fellows",
-        "years": "March - August2023",
-        "mainTech": [
-          "Python", "JavaScript"
-        ],
-        "technologies": [
-          "Auth0", "Django", "Docker", "Git", "GitHub", "Linux", "MongoDB", "Next.js", "Node.js", "PostgreSQL", "React"
-        ]
-      },
-      {
         "company": "Pursuing a Bachelor's Degree in Computer Science",
         "title": "Eastern Washington University",
-        "years": "",
+        "years": "September2020",
         "mainTech": [
           "Java", "Python", "C"
         ],
@@ -376,6 +365,28 @@
         "years": "July - October2021",
         "mainTech": [
           "Courier"
+        ],
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        "company": "Advanced Software Developement in Python",
+        "title": "Code Fellows",
+        "years": "March - August2023",
+        "mainTech": [
+          "Python", "JavaScript"
+        ],
+        "technologies": [
+          "Auth0", "Django", "Docker", "Git", "GitHub", "Linux", "MongoDB", "Next.js", "Node.js", "PostgreSQL", "React"
+        ]
+      },
+      {
+        "company": "SeattleSki",
+        "title": "Web Developer",
+        "years": "August2024 - Present",
+        "mainTech": [
+          "Python", "Django", "JavaScript", "React"
         ],
         "technologies": [
           ""
