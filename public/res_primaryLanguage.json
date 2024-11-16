@@ -16,6 +16,7 @@
         "startDate": "2024",
         "description": "This project is a Vulkan-based engine that demonstrates a range of graphics programming concepts and techniques using the Vulkan API. It features window management with GLFW, advanced rendering techniques, and real-time 3D graphics capabilities.",
         "images": [
+          "images/portfolio/vEngine/Galaxy.gif",
           "images/portfolio/vEngine/vEngine2.gif"
         ],
         "url": "https://github.com/AnthonySinitsa/VoxelEngine",
