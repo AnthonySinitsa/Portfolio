@@ -102,6 +102,7 @@
           "images/portfolio/Water/Eulersos.gif"
         ],
         "url": "https://github.com/AnthonySinitsa/Water",
+        "webgl_url": "https://waterwaves.netlify.app",
         "technologies": [
           {
             "class": "devicon-csharp-plain",
@@ -122,7 +123,7 @@
         "startDate": "2024",
         "description": "Shell-Texturing is a technique used to efficiently render complex objects with complex surface details: fur, hair, grass or foliage.",
         "images": [
-          "images/portfolio/ShellTexturing/ball1.png",
+          "images/portfolio/ShellTexturing/ball.gif",
           "images/portfolio/ShellTexturing/wind.gif",
           "images/portfolio/ShellTexturing/image2.png",
           "images/portfolio/ShellTexturing/ball0.png",
@@ -133,6 +134,7 @@
           "images/portfolio/ShellTexturing/gravity.png"
         ],
         "url": "https://github.com/AnthonySinitsa/shell-texturing",
+        "webgl_url": "https://shelltexturing.netlify.app",
         "technologies": [
           {
             "class": "devicon-csharp-plain",
@@ -188,6 +190,7 @@
           "images/portfolio/Clouds/clouds3.jpg"
         ],
         "url": "https://github.com/AnthonySinitsa/Clouds",
+        "webgl_url": "https://cloudnoise.netlify.app",
         "technologies": [
           {
             "class": "devicon-unity-plain",
@@ -209,7 +212,7 @@
           "images/portfolio/CoverMe/3.png",
           "images/portfolio/CoverMe/4.png"
         ],
-        "url": "https://cover-me-letter-6882f32ca33b.herokuapp.com",
+        "url": "https://github.com/AnthonySinitsa/cover-me-resume",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -238,7 +241,8 @@
           "images/portfolio/JarJarBeats/jar1.jpg",
           "images/portfolio/JarJarBeats/jar3.jpg"
         ],
-        "url": "",
+        "url": "https://github.com/MVP-Music-Variant-Project/JarJar-Beats-FrontEnd",
+        "webgl_url": "https://jarjar-beats.netlify.app",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -267,6 +271,7 @@
           "images/portfolio/PBJ/PBJ2.png"
         ],
         "url": "https://github.com/PeanutButter-and-JavaScript/PB-JS",
+        "webgl_url": "https://peanutbutter-and-javascript.github.io/PB-JS/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -295,6 +300,7 @@
           "images/portfolio/CityExplorer/city2.jpg"
         ],
         "url": "https://github.com/AnthonySinitsa/city-explorer",
+        "webgl_url": "https://luxury-youtiao-8b8f69.netlify.app/",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -324,6 +330,7 @@
           "images/portfolio/GalleryOfHorns/goh3.jpg"
         ],
         "url": "https://github.com/AnthonySinitsa/Gallery-of-Horns",
+        "webgl_url": "https://bright-klepon-7b91c3.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-plain",

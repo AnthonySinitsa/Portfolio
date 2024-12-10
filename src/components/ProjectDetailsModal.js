@@ -87,11 +87,24 @@ class ProjectDetailsModal extends Component {
                   className="link-href"
                 >
                   <i
-                    className="fas fa-external-link-alt"
+                    className="fab fa-github"
                     style={{ marginLeft: "10px" }}
                   ></i>
                 </a>
               ) : null}
+              {this.props.data.webgl_url ? (
+                <a
+                  href={this.props.data.webgl_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="link-href"
+                >
+                <i
+                  className="fas fa-globe" // fontawesome.com/icons
+                  style={{ marginLeft: "10px" }}
+                ></i>
+              </a>
+            ) : null}
             </h3>
             <p className="modal-description">{description}</p>
             <div className="col-md-12 text-center">
