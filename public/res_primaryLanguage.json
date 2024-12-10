@@ -26,11 +26,11 @@
             "name": "C++"
           },
           {
-            "class": "devicon-vulakan-plain",
+            "class": "fas fa-microchip",
             "name": "VulkanAPI"
           },
           {
-            "class": "devicon-glsl-plain",
+            "class": "fas fa-code",
             "name": "GLSL"
           }
         ]
@@ -52,11 +52,11 @@
             "name": "C#"
           },
           {
-            "class": "devicon-hlsl-plain",
+            "class": "fas fa-code",
             "name": "HLSL"
           },
           {
-            "class": "devicon-unity-plain",
+            "class": "devicon-unity-original",
             "name": "Unity"
           },
           {
@@ -84,11 +84,11 @@
             "name": "C++"
           },
           {
-            "class": "devicon-directx11-plain",
+            "class": "fas fa-microchip",
             "name": "DirectX 11"
           },
           {
-            "class": "devicon-hlsl-plain",
+            "class": "fas fa-code",
             "name": "HLSL"
           }
         ]
@@ -109,11 +109,11 @@
             "name": "C#"
           },
           {
-            "class": "devicon-hlsl-plain",
+            "class": "fas fa-code",
             "name": "HLSL"
           },
           {
-            "class": "devicon-unity-plain",
+            "class": "devicon-unity-original",
             "name": "Unity"
           }
         ]
@@ -141,11 +141,11 @@
             "name": "C#"
           },
           {
-            "class": "devicon-hlsl-plain",
+            "class": "fas fa-code",
             "name": "HLSL"
           },
           {
-            "class": "devicon-unity-plain",
+            "class": "devicon-unity-original",
             "name": "Unity"
           }
         ]
@@ -170,11 +170,11 @@
             "name": "C#"
           },
           {
-            "class": "devicon-hlsl-plain",
+            "class": "fas fa-code",
             "name": "HLSL"
           },
           {
-            "class": "devicon-unity-plain",
+            "class": "devicon-unity-original",
             "name": "Unity"
           }
         ]
@@ -193,7 +193,7 @@
         "webgl_url": "https://cloudnoise.netlify.app",
         "technologies": [
           {
-            "class": "devicon-unity-plain",
+            "class": "devicon-unity-original",
             "name": "Unity"
           },
           {

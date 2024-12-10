@@ -39,23 +39,23 @@
           "level": "70"
         },
         {
-          "name": "HTML 5",
+          "name": "HTML5",
           "class": "devicon-html5-plain",
           "level": "95"
         },
         {
-          "name": "CSS 3",
+          "name": "CSS3",
           "class": "devicon-css3-plain",
           "level": "95"
         },
         {
-          "name": "Vulkan API",
-          "class": "devicon-vulkan-plain",
+          "name": "Vulkan",
+          "class": "fas fa-microchip",
           "level": "95"
         },
         {
-          "name": "DirectX 11 API",
-          "class": "devicon-directx11-plain",
+          "name": "DirectX 11",
+          "class": "fas fa-microchip",
           "level": "95"
         },
         {
@@ -74,8 +74,8 @@
           "level": "85"
         },
         {
-          "name": "Node.js",
-          "class": "devicon-nodejs-plain",
+          "name": "Vue.js",
+          "class": "devicon-vuejs-plain",
           "level": "85"
         },
         {
