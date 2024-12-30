@@ -14,7 +14,7 @@
       {
         "title": "Vulkan/WebGPU Rendering Engine",
         "startDate": "2024",
-        "description": "This project is a Vulkan-based and WebGPU-based rendering engine that demonstrates a range of graphics programming concepts and techniques using the Vulkan and WebGPU API's. It features window management with GLFW, advanced rendering techniques, and real-time 3D graphics capabilities. Originally built as a comprehensive Vulkan rendering engine and reimplemented in WebGPU for web accessibility, the project features interactive camera controls and galaxy formation.",
+        "description": "(Run WebGPU version on Chrome)This project is a Vulkan-based and WebGPU-based rendering engine that demonstrates a range of graphics programming concepts and techniques using the Vulkan and WebGPU API's. It features window management with GLFW, advanced rendering techniques, and real-time 3D graphics capabilities. Originally built as a comprehensive Vulkan rendering engine and reimplemented in WebGPU for web accessibility, the project features interactive camera controls and galaxy formation.",
         "images": [
           "images/portfolio/vEngine/Galaxy.gif",
           "images/portfolio/vEngine/vEngine2.gif"
